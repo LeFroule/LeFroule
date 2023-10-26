@@ -25,3 +25,12 @@
 </div>
 
 ###
+
+<h6 align="left">Languages and Tools:</h6>
+
+###
+
+Contact me:
+Telegram: @krosh_sb
+
+###
