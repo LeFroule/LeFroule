@@ -24,7 +24,6 @@
 
 ###
 
-<h6 align="left">Languages and Tools:</h6>
 
 ###
 
